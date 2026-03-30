@@ -1,0 +1,37 @@
+{
+  "version": "3.113.36519.0",
+  "course_id": "5kRa35hlpco",
+  "title": "PIT_Loading",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Loading"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6nSMpCw0zFC",
+      "title": "Choose Pallet",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6DRcN1E4RBb",
+      "title": "Option 1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6fr6QW7PX4V",
+      "title": "Option 2",
+      "scene_index": "1.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
